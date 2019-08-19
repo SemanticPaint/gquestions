@@ -2,7 +2,11 @@
 
  ![pybadge] (https://img.shields.io/badge/python-%3E%3D3.7-important.svg)  ![badge](https://img.shields.io/badge/license-GPLv3-brightgreen.svg)
 
+NOTE:
 More details about how to use at the bottom of the file...
+
+Also note:
+Likely need to substitute "python3" instead of "python" wherever "python" is used.
 
 [![asciicast](https://asciinema.org/a/4wrOzHnxQVcTImuofzdMxB35L.svg)](https://asciinema.org/a/4wrOzHnxQVcTImuofzdMxB35L)
 
